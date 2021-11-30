@@ -39,11 +39,11 @@ Following basic SCRUM rules.
 
 
 ## Questions:
-  - in any neighborhood, the most houses are expensive and in any neighborhood the most houses are cheap?
-  - are the bedrooms and bathrooms affect on the price?
-  - can we predict the price of the house depending on the features we had or do we need more?
-  - in which neighborhood the most and least number of houses offers?
-  - can we extract new information from 'details' to indicates the value of the house?
+  - In any neighborhood, the most houses are expensive and in any neighborhood the most houses are cheap?
+  - Are the bedrooms and bathrooms affect on the price?
+  - Can we predict the price of the house depending on the features we had or do we need more?
+  - In which neighborhood the most and least number of houses offers?
+  - Can we extract new information from 'details' to indicates the value of the house?
 
 
 ## MVP Goal:
