@@ -49,3 +49,7 @@ Following basic SCRUM rules.
 ## MVP Goal:
 The MVP goal is to answer at least two of the questions I mentioned.
 
+## Team members:
+ - [ ] [Abdulkareem Alanazi ](https://github.com/akrm1)
+ - [ ]  [Bayan Ali Alshehri](https://github.com/bl2022)
+ - [ ] [Fahad Alomran](https://github.com/aofahad)
