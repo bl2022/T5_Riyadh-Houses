@@ -8,7 +8,6 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 # Introduction
  In this notebook I'll predict the price with use linear regression model.
-_____________________________________________________________________________________________
 
 
 
